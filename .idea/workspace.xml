@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d689c5a-b6da-497f-a8c3-0434b6cd3d40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/ConfigurationAnnotations_1_DatePickers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/ConfigurationAnnotations_2_ListBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/First_Automated_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_methods.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DhlLcAu6X5XbLR8NwAVn4gZo5L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/SKASIMOG/IdeaProjects/TutorialTestNG",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SKASIMOG\IdeaProjects\TutorialTestNG" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/SKASIMOG/IdeaProjects/TutorialTestNG/testng_groups.xml">
+    <configuration name="C:/Users/SKASIMOG/IdeaProjects/TutorialTestNG/testng_groups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TutorialTestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_groups.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/SKASIMOG/IdeaProjects/TutorialTestNG/testng_methods.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TutorialTestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_methods.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/SKASIMOG/IdeaProjects/TutorialTestNG/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TutorialTestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigurationAnnotations_1_DatePickers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TutorialTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoTestNG" />
+      <option name="MAIN_CLASS_NAME" value="DemoTestNG.ConfigurationAnnotations_1_DatePickers" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="First_Automated_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TutorialTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoTestNG" />
+      <option name="MAIN_CLASS_NAME" value="DemoTestNG.First_Automated_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/SKASIMOG/IdeaProjects/TutorialTestNG/testng_groups.xml" />
+        <item itemvalue="TestNG.C:/Users/SKASIMOG/IdeaProjects/TutorialTestNG/testng_methods.xml" />
+        <item itemvalue="TestNG.C:/Users/SKASIMOG/IdeaProjects/TutorialTestNG/testng.xml" />
+        <item itemvalue="TestNG.ConfigurationAnnotations_1_DatePickers" />
+        <item itemvalue="TestNG.First_Automated_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d689c5a-b6da-497f-a8c3-0434b6cd3d40" name="Changes" comment="" />
+      <created>1661159146152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661159146152</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
