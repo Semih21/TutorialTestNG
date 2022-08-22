@@ -13,6 +13,10 @@ public class ConfigurationAnnotations_1_DatePickers {
         System.out.println("     (5) Test Method 2: JQuery Date Picker");
     }
 
+    @Test(groups = {"regression", "e2e","smoke"})
+    public void test3_JQueryDatePicker() {
+        System.out.println("     (5) Test Method 3: JQuery Date Picker");
+    }
     @BeforeMethod
     public void beforeMethod() {
         System.out.println("    (4) Execute Before Each Test Method");

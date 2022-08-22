@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d689c5a-b6da-497f-a8c3-0434b6cd3d40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/ConfigurationAnnotations_1_DatePickers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/ConfigurationAnnotations_2_ListBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/First_Automated_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_groups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_methods.xml" afterDir="false" />
+    <list default="true" id="3d689c5a-b6da-497f-a8c3-0434b6cd3d40" name="Changes" comment="new repo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DemoTestNG/ConfigurationAnnotations_1_DatePickers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/ConfigurationAnnotations_1_DatePickers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661159146152</updated>
     </task>
+    <task id="LOCAL-00001" summary="new repo">
+      <created>1661179213482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661179213482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,5 +150,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="new repo" />
   </component>
 </project>
